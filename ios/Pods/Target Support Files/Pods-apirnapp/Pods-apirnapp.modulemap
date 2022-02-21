@@ -1,0 +1,6 @@
+module Pods_apirnapp {
+  umbrella header "Pods-apirnapp-umbrella.h"
+
+  export *
+  module * { export * }
+}

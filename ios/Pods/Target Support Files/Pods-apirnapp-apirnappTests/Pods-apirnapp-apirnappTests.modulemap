@@ -1,0 +1,6 @@
+module Pods_apirnapp_apirnappTests {
+  umbrella header "Pods-apirnapp-apirnappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
